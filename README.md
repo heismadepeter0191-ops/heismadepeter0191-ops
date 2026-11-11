@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**heismadepeter0191-ops/heismadepeter0191-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align="center">
 
 # Hi, I'm Ji Chan Hyun 👋
