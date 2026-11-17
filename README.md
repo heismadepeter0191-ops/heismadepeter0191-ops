@@ -25,7 +25,6 @@ AI 메모리 및 Vision AI를 주요 개발 분야로 삼고 있습니다.
 - 🏢 **Wemadeall CEO · AI Founder**
 - 💻 **5년 이상의 개발 경험**
 - 🇺🇸 **미국 기업 근무 경험**
-- 🎓 **Santa Clara University 학사 졸업**
 - 🤝 **SaaS 개발자들과 제품 개발 협업**
 - 🔬 **거대언어모델 · 할루시네이션 저감 · AI 메모리**
 - 👁️ **Vision AI 개발**
